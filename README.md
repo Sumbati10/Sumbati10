@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Sumbati10/Sumbati10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-My name is Lindah Sumbati and I work as a Data analyst, I'm from Kenya and I'm looking for remote opportunities in the field.
-
-- 🔭 I’m currently working on javascript...
+Data Analyst | Machine Learning and Data Analytics Practitioner
+I am skilled in Python, SQL, PowerBI, Machine learning and Attention to Details.
+I have solved business problems using Data Analytics, ETL, Machine Learning,  and Time-series forecasting.
+python logo  scikit_learn seaborn pandas mysql logo  sqlite logo  Power Bi Tableau git logo  github logo  mongodb logo  LaTeX gcp
