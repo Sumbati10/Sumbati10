@@ -26,7 +26,10 @@ I wield a variety of tools and technologies to turn data into insights:
 
 
 
-
+📚 My Interests
+🔭 Staying ahead with the latest advancements in machine learning
+🌱 Embracing the art of coding with downtime
+❤️ Collaborating with innovative and passionate individuals
 
 
 
