@@ -10,7 +10,8 @@ Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor w
 
 🚀 My Skills
 I wield a variety of tools and technologies to turn data into insights:
-![Uploading image.png…]() ![Uploading image.png…]() 
+ ![image](https://github.com/user-attachments/assets/18eb5f6d-8cf3-4491-94f0-4e866c8a7c51) 
+
 
 
 
