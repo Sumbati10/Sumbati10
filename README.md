@@ -8,6 +8,8 @@ Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor w
 
 📫 How to reach me: @sumbatilinda@gmail.com
 
+
+
 🚀 My Skills
 
 
