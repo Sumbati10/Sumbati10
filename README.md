@@ -39,7 +39,7 @@ I wield a variety of tools and technologies to turn data into insights:
 ❤️ Collaborating with innovative and passionate individuals
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumbati10)](https://github.com/Sumbati10/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumbati10&show_icons=true)](https://github.com/Sumbati10/github-readme-stats&show_icons=true)
 
 
 
