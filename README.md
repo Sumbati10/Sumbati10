@@ -10,7 +10,11 @@ Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor w
 
 📫 How to reach me: @sumbatilinda@gmail.com
 
+<br/>
 
+⚙️ MY GITHUB STATS
+
+ ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Sumbati10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumbati10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) 
 
 🚀 My Skills
 
