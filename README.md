@@ -8,6 +8,8 @@ Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor w
 
 🌱 I’m currently learning  NLP, deep learning
 
+💡I am currently enrolled in AWS/RE/START-AWS cloud Practioner
+
 📫 How to reach me: @sumbatilinda@gmail.com
 
 <br/>
