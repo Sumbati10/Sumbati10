@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor with over 2 years of professional experience in the ML/DL domain. I'm all about democratizing AI and ML developments for the greater good of society. 🌍💡
+Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor (https://hellotractor.com/) with over 2 years of professional experience in the ML/DL domain. I'm all about democratizing AI and ML developments for the greater good of society. 🌍💡
 
 👀 I’m interested in Machine Learning Engineer
 
