@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm Lindah, a passionate Data Scientist at Hello Tractor (
 
 👀 I’m interested in Machine Learning Engineer
 
-🌱 I’m currently learning  NLP, deep learning
+🌱 I’m currently learning  Machine Learning and Computer vision at Worldquant Univeristy
 
-💡I am currently enrolled in AWS/RE/START-AWS cloud Practioner Program
+💡I am enrolled  R programming and Statistics(Udemy)-upskilling my R language skills 
 
 📫 How to reach me: @sumbatilinda@gmail.com
 
